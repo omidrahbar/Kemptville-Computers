@@ -26,7 +26,7 @@ return array(
 	|
 	*/
 
-	'url' => 'http://localhost/kc2015',
+	'url' => 'http://kemptvillecomputers.com',
 
 	/*
 	|--------------------------------------------------------------------------
